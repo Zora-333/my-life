@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+openpyxl
+streamlit-local-storage
+streamlit-calendar
